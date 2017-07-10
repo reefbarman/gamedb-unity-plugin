@@ -5,4 +5,6 @@ Note: If any of the documentation is unclear or you feel detail is missing, plea
 
 [Usage Guide](../../wiki)
 
+[API Reference](../../wiki/API-Reference)
+
 [Google Sheets Usage (Pro version only)](../../wiki/Google-Sheets-Import-Export)
