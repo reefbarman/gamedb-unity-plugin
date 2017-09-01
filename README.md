@@ -16,7 +16,7 @@ Some examples of usages would be for data relating to things like Loot tables, N
 Features include:
 
 * In-editor data management.
-* Support for many data types including all basic types plus enums, prefabs, and table references.
+* Support for many data types including all basic types, unity types (including prefabs) and enums and table references (Pro only).
 * Data saved in a portable JSON format designed to be used by game clients, servers and more.
 * In-game editing while playing the game in the editor, allows for balancing of data ar runtime.
 * Code generation of C# classes for easy data access in your game code.
