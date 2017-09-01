@@ -25,6 +25,8 @@ Features include:
 * Golang server based on S3/DynamoDB and a docker file providing server functionality (Pro only)
 * Plus much more...
 
+Support platforms: The plugin should work on all platforms Unity supports! (If it doesn't please open a issue in the tracker above)
+
 A long list of road-map features a planned to provide a full suite of tools to make managing game data easy.
 
 [Roadmap](../../roadmap)
