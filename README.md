@@ -3,11 +3,7 @@ Public repo for documentation and tracking issues for **GameDB (Free/Pro)**
 
 Note: If any of the documentation is unclear or you feel detail is missing, please create an issue and I will attempt to improve it ASAP
 
-[Usage Guide](../../wiki)
-
-[API Reference](../../wiki/API-Reference)
-
-[Google Sheets Usage (Pro version only)](../../wiki/Google-Sheets-Import-Export)
+[Documentation](https://reefbarman.github.io/gamedb-unity-plugin/)
 
 **GameDB (Free/Pro)** is a plugin that provides an easy to use and powerful game and meta data editor. With this asset your scripts no longer have to use hard-coded references and instead can refer to your database for lists of values, files, prefabs, and other data types. GameDB is designed to produce JSON and associated classes to load and access this data easily within a game. It supports many data types, relationships between tables and hot-reloading to make working with game data easy and intuitive.
 
@@ -29,4 +25,4 @@ Support platforms: The plugin should work on all platforms Unity supports! (If i
 
 A long list of road-map features a planned to provide a full suite of tools to make managing game data easy.
 
-[Roadmap](../../roadmap)
+[Roadmap](https://reefbarman.github.io/gamedb-unity-plugin/roadmappage.html)
