@@ -6,7 +6,6 @@ var searchData=
   ['gamedbeditor',['GameDBEditor',['../class_game_d_b_editor_library_1_1_game_d_b_editor.html',1,'GameDBEditorLibrary']]],
   ['gamedbeditorlibrary',['GameDBEditorLibrary',['../namespace_game_d_b_editor_library.html',1,'']]],
   ['gamedblibrary',['GameDBLibrary',['../namespace_game_d_b_library.html',1,'']]],
-  ['gamedblibraryunity',['GameDBLibraryUnity',['../namespace_game_d_b_library_unity.html',1,'']]],
   ['getbykey',['GetByKey',['../class_game_d_b_codegen_example_1_1_example_table.html#acdf0f78f42a1e844371d599582946177',1,'GameDBCodegenExample::ExampleTable']]],
   ['getlatestdeployment',['GetLatestDeployment',['../class_game_d_b_library_1_1_remote.html#ad37714bce04fd7d4315118d4d5efe4fa',1,'GameDBLibrary::Remote']]],
   ['getrows',['GetRows',['../class_game_d_b_codegen_example_1_1_example_table.html#a410b8c48498b1235d757fe29d97b50f0',1,'GameDBCodegenExample::ExampleTable']]],

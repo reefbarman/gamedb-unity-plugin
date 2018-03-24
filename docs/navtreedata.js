@@ -26,6 +26,7 @@ var NAVTREE =
   [ "GameDB", "index.html", [
     [ "Usage Guide ", "index.html#mainpage", [
       [ "Overview", "index.html#overview", null ],
+      [ "Support", "index.html#support", null ],
       [ "Getting Started", "index.html#getting-started", null ],
       [ "Usage In Game", "index.html#usage-in-game", null ],
       [ "Editing in-game", "index.html#editing-in-game", null ],
